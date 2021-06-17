@@ -1,6 +1,6 @@
 An idea tracker android/IOS application created using Flutter and Firebase.This app is an useful tool for every budding entrepreneur.
 
-Ever come across groundbreaking business ideas and you have no dedicated tool to track your ideas? Well, no worries, this application aims at solving this problem by giving you the power to track your ideas based on priority of execution while at the same time you can store research documents specific to your idea for retrieval purposes.  
+Ever come across groundbreaking business ideas and you have no dedicated tool to track your ideas? Well, no worries, this application aims at solving this problem by giving you the power to track your ideas based on priority of execution while at the same time, you can store research documents specific to your idea.  
 
 Application covers the following functionalities:
 
