@@ -9,3 +9,7 @@ Application covers the following functionalities:
 3. Each idea can be updated/deleted and assigned priority based on urgency of execution.
 4. Documents related to each idea can be stored in Firebase Storage and retrieved from any android/IOS device just by logging in to your user account.
 
+
+
+https://user-images.githubusercontent.com/79505216/122419754-c87ca780-cfa8-11eb-9791-2fb0c118d8b8.mp4
+
