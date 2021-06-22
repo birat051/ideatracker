@@ -20,17 +20,6 @@ class _ViewFilesState extends State<ViewFiles> {
       cloudlist;
     });
   }
-  void getCloudFiles() async{
-    final GetCloudFiles gt=GetCloudFiles(widget.ideatext);
-    fileNames=await gt.getFileNames();
-    for(int i=0;i<fileNames.length;i++)
-    {
-      final GetCloudFiles gt=GetCloudFiles(widget.ideatext);
-      fileNames=await gt.getFileNames();
-    //  print('Retrieved file in viewFiles screen : ${fileNames[i].split('/')[2]}');
-      cloudlist.add(CloudList(fileNames[i]));
-    }
-  }
   Future<List<String>> getFiles() async{
     final GetCloudFiles gt=GetCloudFiles(widget.ideatext);
     fileNames=await gt.getFileNames();
